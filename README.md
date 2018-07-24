@@ -22,4 +22,4 @@
 
 ### CSS 相关
 1. [CSS 布局笔记](https://github.com/oujia6014/blog/issues/7)
-2. [Css 动画笔记](https://github.com/oujia6014/blog/issues/8)
+2. [CSS 动画笔记](https://github.com/oujia6014/blog/issues/8)
