@@ -19,6 +19,7 @@
 
 ### Node.js 相关
 1. [Node.js 基础笔记](https://github.com/oujia6014/blog/issues/3)
+2. [webpack 使用笔记](https://github.com/oujia6014/blog/issues/9)
 
 ### CSS 相关
 1. [CSS 布局笔记](https://github.com/oujia6014/blog/issues/7)
